@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@langchain/community": "^1.1.4",
+    "@langchain/core": "^1.1.13",
+    "@langchain/openai": "^1.2.2",
+    "@supabase/supabase-js": "^2.90.1",
+    "dotenv": "^17.2.3"
+  }
+}
